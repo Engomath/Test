@@ -1,3 +1,4 @@
-This test folder will contain all minor practicing tasks for FrontEnd Development
 Name: Mathew Afolabi
 Reg No: NNNNNNNNN
+
+The is a git test
