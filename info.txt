@@ -1,0 +1,1 @@
+This test folder will contain all minor practicing tasks for FrontEnd Development
